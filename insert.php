@@ -1,7 +1,7 @@
 <?
 $username="root";
-$password="Cast7371";
-$database="test";
+$password="x";
+$database="x";
 
 $first=$_POST['first'];
 $last=$_POST['last'];
