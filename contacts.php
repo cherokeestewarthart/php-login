@@ -1,8 +1,8 @@
 <?php
 
 $username="root";
-$password="Cast7371";
-$database="test";
+$password="x";
+$database="x";
 
 $connection = mysqli_connect("127.0.0.1", $username, $password) or die("Unable to connect");
 $query="SELECT * FROM test.contacts";
